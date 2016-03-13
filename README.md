@@ -10,3 +10,5 @@
    - black_maru 中央の円の黒い丸です。center_imageに合わせて色を変えると良いかもです。
    - background 透過色のままです。特にいじる必要はないかと。
    
+## ライセンス
+MIT License
